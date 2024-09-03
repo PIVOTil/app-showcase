@@ -1,4 +1,6 @@
 The demo of the product that we built, an AI pension advisor.
 
-[Download and view the video](./StackDemo.mp4)
+
+[![Watch the video](https://vumbnail.com/1006001645.jpg)](https://vimeo.com/1006001645#t=0)
+
 
