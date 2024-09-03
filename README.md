@@ -1,6 +1,3 @@
-The demo of the product that we built, an AI pension advisor.
+## Demo Video
 
-
-[![Watch the video](https://vumbnail.com/1006001645.jpg)](https://vimeo.com/1006001645#t=0)
-
-
+[![Watch the video](https://img.youtube.com/vi/sQE-k78_au8/0.jpg)](https://youtu.be/sQE-k78_au8)
