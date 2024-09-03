@@ -1,3 +1,3 @@
 The demo of the product that we built, an AI pension advisor.
 
-![Watch the video](./media/StackDemo.mp4)
+![Watch the video](./StackDemo.mp4)
