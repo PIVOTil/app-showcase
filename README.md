@@ -1,8 +1,5 @@
 ## This is our AI driven pension advisor!                                                                  
-We use an API to pull updated data regrading all the funds on a monthly basis.
-We than analyze the data based on the information we learned from pension advisors and economic experts.
-The user gets a questionary that checks what are his preferences and estimate the users' risk level.
-After we have all the information, our model checks which funds based on the info we got will suit the user best, with high yields, low management fee and other postive factors that are important when choosing a pension plan.
+We leverage an API to pull updated data on all available funds monthly. Our system then analyzes this data, incorporating insights from pension advisors and economic experts. Users complete a questionnaire that assesses their preferences and helps estimate their risk tolerance. With this information, our model identifies the most suitable pension funds, prioritizing high yields, low management fees, and other critical factors to ensure an optimal match for each individual’s needs.
 
 ## Demo Video
 
